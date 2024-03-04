@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @SaiyamBabbar
-- 👀 I’m interested in web development projects
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-
-<!---
-SaiyamBabbar/SaiyamBabbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Science student passionate about software development, algorithms, and data structures. Currently pursuing my Master's degree in Computer Science at Chitkara University.
+💻 I enjoy coding in various languages including Java, JavaScript and I'm always eager to learn new technologies and expand my skill set.
+🔍 Interested in exploring topics such as machine learning, artificial intelligence, and blockchain technology.
+🌱 Constantly learning and honing my skills through personal projects, hackathons, and online courses.
+📫 Feel free to connect with me on LinkedIn SaiyamBabbar to discuss projects, collaborations, or anything tech-related!
+Happy coding! 😊
